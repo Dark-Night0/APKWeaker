@@ -34,7 +34,7 @@ Network Security Modification: Adds or updates the networkSecurityConfig in the 
 ## Installation
 ```
 Clone the Repository:
-git clone https://github.com/yourusername/APKWeaker.git
+https://github.com/Dark-Night0/APKWeaker.git
 ```
 
 ## Usage
