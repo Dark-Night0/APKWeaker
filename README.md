@@ -25,7 +25,7 @@ Network Security Modification: Adds or updates the networkSecurityConfig in the 
 **Before using APKWeaker, ensure the following are installed:**
 
 **ADB (Android Debug Bridge):** For pulling APKs from an emulator </br>
-**Java:** OpenJDK 17 or higher for running `apktool` and `uber-apk-signer`
+**Java:** OpenJDK 17 or higher for running `apktool` and `uber-apk-signer` </br>
 **xmlstarlet:** For modifying XML files(AndroidManifest.xml)</br>
 **apktool:** Version 2.11.1 or higher (download apktool_2.11.1.jar)</br>
 **uber-apk-signer:** Version 1.3.0 or higher (download uber-apk-signer-1.3.0.jar)</br>
